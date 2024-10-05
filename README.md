@@ -11,50 +11,54 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python: Mi primer lenguaje de programación
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML y ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS: Fundamentos del desarrollo web
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript: Añadiendo interactividad a mis páginas web
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) Java: creando programas de inventario de escritorio
+- ![NodeJS](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) NodeJS: Creacion de API REST
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white) Java: creando programas de inventario de escritorio
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) Control de versiones con Git
-  ![MySQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql&logoColor=white) Mysql: Diseño de bases de datos
+- ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) Android: primera aplicacion movil de supermercado en Jaa
 
 ### 🚀 Mis Primeros Proyectos
 
 1. **Mi Portafolio Personal**
 
    - Una página web simple para mostrar mis proyectos
-   - Tecnologías: HTML, CSS
-   - [Enlace al Repositorio](https://github.com/TuUsuario/mi-portafolio)
+   - Tecnologías: HTML, CSS y JavaScript
+   - [Enlace al Repositorio](https://github.com/juan0096150/front.git)
 
-2. **Calculadora Básica**
+2. **Extension de Notas y Recordatorio**
 
-   - Mi primer proyecto en Python
-   - Realiza operaciones aritméticas simples
-   - [Enlace al Repositorio](https://github.com/TuUsuario/calculadora-python)
+   - Mi primer proyecto de extension
+   - crub de notas y recordatorio
+   - [Enlace al Repositorio](https://github.com/juan0096150/extension-notas.git)
 
-3. **Lista de Tareas**
-   - Una aplicación web simple para gestionar tareas
-   - Tecnologías: HTML, CSS, JavaScript
-   - [Enlace al Repositorio](https://github.com/TuUsuario/lista-tareas)
+3. **API REST**
+   - Una api rest de usuarios
+   - Tecnologías: Nodejs
+   - [Enlace al Repositorio](https://github.com/juan0096150/ms_backend_user.git)
 
 ### 📚 Educación
 
 - Estudiante de Analisis y Desarrollo Software en Servicio Nacional del Aprendizaje
-- Cursos en línea:
-  - "Introducción a la Programación con Python" en Coursera
-  - "Desarrollo Web para Principiantes" en freeCodeCamp
+- Cursos:
+  - "DESARROLLO DE HABILIDADES COGNITIVAS PARA EL PENSAMIENTO LOGICO-MATEMATICO" en el Sena
+  - "FUNDAMENTOS BASICOS EN PROGRAMACIÓN JAVA" en el Sena
+  - "PROGRAMACION DE FORMULARIOS EN JAVA UTILIZANDO ENTORNOS INTEGRADOS DE DESARROLLO" en el Sena
+  - "CONSTRUCCION DE BASES DE DATOS CON MYSQL" en el Sena
 
 ### 🏆 Logros
 
-- Completé mi primer "Hacktoberfest" contribuyendo a proyectos de código abierto
-- Gané el tercer lugar en la feria de ciencias de mi escuela con un proyecto de IoT
+- Participar en en MUN (Modelo de las Naciones Unidas) en el colegio
+- Gané el tercer lugar en la feria de arte de mi escuela con mi obra de arte abstracto
 
 ### 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juan0096150&show_icons=true&theme=radical)
 
 ### 💡 Objetivos para este año
 
 - Aprender los fundamentos de las estructuras de datos y algoritmos
 - Construir mi primer proyecto full-stack
-- Contribuir a más proyectos de código abierto
+- Contribuir a más proyectos de desarrollo movil
 - Participar en mi primera hackathon
 
 ### 📫 ¡Conectemos!
