@@ -8,7 +8,7 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 
 ### 🌱 Actualmente estoy aprendiendo
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python: Mi primer lenguaje de programación
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) Python: Fundamentos basico de programacion Basico - Avanzando
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) HTML y ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) CSS: Fundamentos del desarrollo web
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) JavaScript: Añadiendo interactividad a mis páginas web
 - ![NodeJS](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) NodeJS: Creacion de API REST
