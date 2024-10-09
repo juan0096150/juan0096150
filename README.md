@@ -45,21 +45,6 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
   - "PROGRAMACION DE FORMULARIOS EN JAVA UTILIZANDO ENTORNOS INTEGRADOS DE DESARROLLO" en el Sena
   - "CONSTRUCCION DE BASES DE DATOS CON MYSQL" en el Sena
 
-### 🏆 Logros
-
-- Participar en en MUN (Modelo de las Naciones Unidas) en el colegio
-- Gané el tercer lugar en la feria de arte de mi escuela con mi obra de arte abstracto
-
-### 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=juan0096150&show_icons=true&theme=radical)
-
-### 💡 Objetivos para este año
-
-- Aprender los fundamentos de las estructuras de datos y algoritmos
-- Construir mi primer proyecto full-stack
-- Contribuir a más proyectos de desarrollo movil
-- Participar en mi primera hackathon
 
 ### 📫 ¡Conectemos!
 
