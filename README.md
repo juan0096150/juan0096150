@@ -23,7 +23,7 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software. Act
 
    - Una página web simple para mostrar mis proyectos
    - Tecnologías: HTML, CSS y JavaScript
-   - [Enlace al Repositorio](https://github.com/juan0096150/front.git)
+   - [Enlace al Repositorio](https://github.com/juan0096150/portafolio.git)
 
 2. **Extension de Notas y Recordatorio**
 
